@@ -1,3 +1,6 @@
+#To start this project just run the following command 
+node server.js
+
 # Server for Contacts Project
 
 This is a backend server for the Contacts app in-class project. This project is part of [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
